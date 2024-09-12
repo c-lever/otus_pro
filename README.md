@@ -1,1 +1,1 @@
-# otus_pro
+# HOMEWORK OF THE 1ST LESSON
